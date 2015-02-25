@@ -1,0 +1,4 @@
+Learning Git
+============
+
+Make new directory and use git in it:	git init
