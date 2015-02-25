@@ -2,6 +2,6 @@ Using Git for Chapter
 ======================
 
 Make new directory and use git in it:	git init
-Abstract (200 words)
+
 
 
